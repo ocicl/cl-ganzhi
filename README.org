@@ -1,0 +1,9 @@
+* cl-ganzhi
+
+Convert the Gregorian calendar to Chinese GanZhi calendar
+
+|---------+-----------------------------------------------|
+| source  | git:https://codeberg.org/cranej/cl-ganzhi.git |
+| commit  | 9d08eae                                       |
+| systems | cl-ganzhi                                     |
+|---------+-----------------------------------------------|
