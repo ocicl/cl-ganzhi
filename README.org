@@ -4,6 +4,6 @@ Convert the Gregorian calendar to Chinese GanZhi calendar
 
 |---------+-----------------------------------------------|
 | source  | git:https://codeberg.org/cranej/cl-ganzhi.git |
-| commit  | 9d08eae                                       |
+| commit  | 4a54405                                       |
 | systems | cl-ganzhi                                     |
 |---------+-----------------------------------------------|
